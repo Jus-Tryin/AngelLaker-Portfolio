@@ -1,0 +1,3 @@
+Sitemap: https://jus-tryin.github.io/AngelLaker-Portfolio/sitemap.xml
+User-agent: *
+Disallow: 
